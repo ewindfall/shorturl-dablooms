@@ -3,6 +3,8 @@ Dablooms: A Scalable, Counting, Bloom Filter
 
 _Note_: this project has been mostly unmaintained for a while.
 
+http://word.bitly.com/post/28558800777/dablooms-an-open-source-scalable-counting
+
 ### Overview
 This project aims to demonstrate a novel Bloom filter implementation that can
 scale, and provide not only the addition of new members, but reliable removal
